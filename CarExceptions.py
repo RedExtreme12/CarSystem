@@ -6,6 +6,10 @@ class InvalidCompanyName(Exception):
     pass
 
 
+class InvalidModelName(Exception):
+    pass
+
+
 class InvalidNewModelDataFormat(Exception):
     pass
 
